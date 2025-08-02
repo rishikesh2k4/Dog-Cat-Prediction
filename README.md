@@ -35,7 +35,7 @@ Dataset is too huge to upload in GitHub(approx : 850 MB). Link is provided below
 
 
 
-**👨🏻‍💻Results**
+**👨🏻‍💻 Result**
 
 ![CLI Output](https://github.com/rishikesh2k4/Dog-Cat-Prediction/blob/main/assets/dogcatop.png)
 
