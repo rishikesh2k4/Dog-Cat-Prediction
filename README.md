@@ -5,11 +5,11 @@ A machine learning project that classifies images of cats and dogs using HOG (Hi
 **📌 Project Summary**
 
 This model:
-	•	Loads grayscale cat and dog images.
-	•	Extracts HOG features from each image.
-	•	Trains a Stochastic Gradient Descent (SGD) classifier.
-	•	Evaluates the model’s performance.
-	•	Allows testing on new images to predict whether the input is a cat or a dog.
+- Loads grayscale cat and dog images.
+- Extracts HOG features from each image.
+- Trains a Stochastic Gradient Descent (SGD) classifier.
+- Evaluates the model’s performance.
+- Allows testing on new images to predict whether the input is a cat or a dog.
 
  **📁 Dataset**
 
