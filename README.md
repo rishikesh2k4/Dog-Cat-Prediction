@@ -19,12 +19,12 @@ Dataset is too huge to upload in GitHub(approx : 850 MB). Link is provided below
 
 **🧠 Model Architecture**
 	
-  Feature Extraction:
-      •	Images resized to 128x128
-      •	Converted to grayscale
-      •	HOG (Histogram of Oriented Gradients) features extracted for edge-based detection
-      •	Model Used:
-      •	SGDClassifier with hinge loss (linear SVM)
+Feature Extraction:
+•Images resized to 128x128
+•Converted to grayscale
+•HOG (Histogram of Oriented Gradients) features extracted for edge-based detection
+•Model Used:
+      SGDClassifier with hinge loss (linear SVM)
 
 
 **📊 Performance**
