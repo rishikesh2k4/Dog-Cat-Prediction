@@ -13,15 +13,8 @@ This model:
 
  **📁 Dataset**
 
- Dataset/
-├── cats/
-│   ├── cat1.jpg
-│   ├── cat2.jpg
-│   └── ...
-└── dogs/
-    ├── dog1.jpg
-    ├── dog2.jpg
-    └── ...
+Dataset is too huge to upload in GitHub(approx : 850 MB). Link is provided below!
+(https://www.kaggle.com/datasets/bhavikjikadara/dog-and-cat-classification-dataset)
 
 
 **🧠 Model Architecture**
